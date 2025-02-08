@@ -1,4 +1,4 @@
-# [SDF02] Project: CS Cat HTML Portfolio 😼
+# [SDF02] Challenge: CS Cat HTML Portfolio 😼
 
 Congratulations on completing the course content! You've made incredible progress and gained valuable knowledge along the way. As you now start on your project, remember that this is your opportunity to showcase everything you've learned. 
 
