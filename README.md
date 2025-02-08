@@ -25,10 +25,10 @@ You have everything you need to start your project using this starter project. T
 - Follow along with this Step by Step video of how to get setup for the Project and how to submit on the LMS with your CodePen Link.
 - 💡 Need a hint? **Check out the Starter Code on CodePen:** [[SDF02] CodeSpace Cat's Portfolio_student_number_coach_name (codepen.io)](https://codepen.io/codespace-academy/pen/jOJwdmO)
 
-**HOW to submit your project**
+## 🚨 **HOW to Submit Your Challenge** 🚨
 
 1. Rename your project with your student number, group number and coach name. 
-- ⚠️ Here is an example repo name: Module_02_StudentNo_Classcode_Group_Name-Surname_SDF02 ⚠️
+- ⚠️ Here is an example repo name: Module_04_StudentNo_Classcode_Group_Name-Surname_SDF02 ⚠️
 
 2. Submit your GitHub Repo link through the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 
