@@ -42,8 +42,7 @@ Double-check everything before submitting—**attention to detail matters!**
 ## 🚀 **Next Steps**  
 This is your opportunity to apply everything you’ve learned about HTML. If you run into challenges, **use the provided resources** and reach out to your coach for guidance. Keep refining your skills—this is just the beginning!  
 
----
 
 ### **Congrats on Submitting Your First HTML Project!**  
 
-You’ve just built your first **structured portfolio page** a fundamental skill for any developer! Every great coder starts by building simple yet functional projects like this. Keep experimenting, improving, and pushing your boundaries. **Crushed it!**
+You’ve just built your first **structured portfolio page** a fundamental skill for any developer! Every great coder starts by building simple yet functional projects like this. Keep experimenting, improving, and pushing your boundaries. **You Crushed it!**
