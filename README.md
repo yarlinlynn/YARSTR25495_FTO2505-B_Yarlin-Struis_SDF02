@@ -7,11 +7,11 @@ This is a fun and beginner-friendly project built as part of a **CodeSpace Acade
 
 This project is a single-page portfolio website that showcases:
 
-- 👋🏾 An **About Me** section
-- 🛠️ A list of **Web Dev Skills**
-- 💼 A simple **Portfolio** placeholder
-- 📇 A **Contact Form**
-- 🎨
+- A **Header and Main** section
+- A list of **Web Dev Skills** situated in the **nav** section
+- A simple **table** divding content into the **thead & tbody** with 4 **td** elements
+- A **Form** in the contact section
+- A footer including text and copyright **symbol**
 
 ## 🚀 Technologies Used
 
