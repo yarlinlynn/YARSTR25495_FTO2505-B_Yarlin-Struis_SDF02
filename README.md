@@ -1,14 +1,13 @@
 # 🐾 CodeSpace Cat Portfolio
 
-Welcome to the official portfolio of **CodeSpace Cat** — your whiskered web dev companion! 🐱💻  
-This is a fun and beginner-friendly project built as part of a **CodeSpace Academy** web development course to practice HTML, CSS, and GitHub basics.
+Welcome to the offical CS Cat Portfolio🐱💻 <br/>A beginner-friendly project created as part of the **CodeSpace Academy** Software Developement course, designed to practice the fundamental semantic HTML skills and Git commands
 
 ## 📄 Project Description
 
 This project is a single-page portfolio website that showcases:
 
 - A **Header and Main** section
-- A list of **Web Dev Skills** situated in the **nav** section
+- A list of **links** navigating us to different sections of our document
 - A simple **table** divding content into the **thead & tbody** with 4 **td** elements
 - A **Form** in the contact section
 - A footer including text and copyright **symbol**
